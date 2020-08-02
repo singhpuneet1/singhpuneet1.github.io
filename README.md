@@ -1,1 +1,1 @@
-# puneetsingh.github.io
+This repo has resume made using the jekyll themes.
