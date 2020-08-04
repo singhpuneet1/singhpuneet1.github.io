@@ -1,8 +1,20 @@
+# Project template
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  # name: Project name
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - **Authoring Software**        : Adobe Framemaker, Madcap Flare, and Adobe RoboHelp
+    - **Platform Operating System** : Linux, Windows, and Mac
+    - **Static Site Generators**    : Jekyll
+    - **Programming Languages**     : Python, JavaScript, MySQL, and C/C++, Java
+    - **Frontend Frameworks**       : Bootstrap 4 and React JS
+    - **Wiki Software**             : Atlassian Confluence
+    - **Markup Languages**          : HTML/CSS, XML, LaTex, and JSON
+    - **Version Control**           : Electronic Document Management System (EDMS), Perforce, and Github
+    - **E-Learning and Video**      : Adobe Captivate and Camtasia Studio
+    - **Doc Generator**             : Doxygen
+    - **Diagramming**               : Microsoft Visio, LucidChart, and Snagit
+    - **Bug Tracking**              : Jira and CCMS
