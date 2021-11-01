@@ -1,9 +1,25 @@
 # Experience template
 - layout: left
+  company: Nokia 
+  # link: Link to company (optional)
+  job_title: Senior Technical Writer
+  dates: February 2020 - Present
+  #quote: >
+  # 
+  description: | # this will include new lines to allow paragraphs
+    - Thoroughly researched and analyzed the raw content to create refined set of end-user documentation
+    - Interviewed Developers, Program Managers, and Testers and researched requirement documents to gain knowledge about new features
+    - Automated several tedious and repetitive manual tasks using Python to improve various processes, such as:
+      - Automated publishing Jira tickets using Python to improve the documentation publishing process
+      - Fine-tuned existing Python scripts to new requirements
+    - Worked on various kinds of documentation, such as Installation Guides, User Guides, Setup Guides, and Administrator Guides, in ArborText
+    - Created new set of documents for new applications according to product requirements
+    - Updated existing documents to fill important information gaps in the content related to various telecommunications applications 
+- layout: left
   company: You.i TV 
   # link: Link to company (optional)
   job_title: Technical Writer
-  dates: August 2017 - Present
+  dates: August 2017 - February 2020
   #quote: >
   # 
   description: | # this will include new lines to allow paragraphs
